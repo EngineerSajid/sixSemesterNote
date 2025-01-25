@@ -1,0 +1,27 @@
+# Impact of IoT : Connected Camera
+
+# IoT Enabler 
+    -> Wireless Sensor Networks
+    -> Cloud Computing
+    -> Big Data Analytics
+    -> Communication Protocol
+    -> Embedded System 
+
+# IoT Challenges
+    -> Scale
+    -> Security
+    -> Privacy 
+    -> Big Data and Data Analytics
+    -> Interoperability 
+
+# M2M (Machine to Machine) [one question maybe give from here in the mid term exam ]
+    -> Application
+    -> Communication Networks
+    -> 
+
+# Three Common Types of IoT Example:
+    -> Industrail
+    -> Home Automation
+    -> Health Care 
+
+    
