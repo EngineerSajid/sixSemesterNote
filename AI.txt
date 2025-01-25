@@ -1,0 +1,117 @@
+AI and Expert System [Before Mid Topics]
+-> Introduction to AI
+-> Characteristic and application of AI
+-> Intelligent Agents, Structured of agents.
+-> Searching Algorithm
+    -> Informed Search 
+    -> Uninformed Search 
+-> Propositional logic
+    -> First order and resoning 
+
+
+**** AI and Expert System **** 
+
+#What involes in Intelligence
+    -> Ability to intract with the real world to perceive understand and act.
+    -> Solving new problems planning and making decision.
+    -> Learning and adptioin our internal models, are always being update.
+
+# What is AI ?
+Answer: The Study and design of computing systems that perceives its environment and takes actions like human being.
+
+
+Goal of  Al
+-> Thinking rationally 
+    using mathematical and logical principles to derive solutions to problems 
+
+-> Action rationally
+    take actions to maximize the likelihood of achiving their goal 
+
+Turning Test [invent in 1950]
+-> Alan Turing 
+    -> Human Interogator | Human agent
+
+# Agent 
+    -> perceive from environment, gather information using like sensors.
+    -> knowledge representation
+        Stored -> { A is a men, 
+                All men are mortal, }
+        -> resoning [ Here take inputs from stored and make new sentences like => A is mortal.]
+
+# State Space Searching
+    -> Initial State
+    -> Goal State
+
+# Search 
+    [
+       -> Informed Search 
+       {
+            Heuristic Value , Hill Climbiing Algorithm, A* Algorithm, AO* Algorithm
+       }
+       ->  UnInformed Search 
+       {
+            BFS, DFS
+       }
+    ]
+    
+
+#Day 02 (AI and Expert System Theory Class)
+
+    -> Intelligent Agent [Agent also called a Models that can make decision from itself]
+        -> Agent and Environment
+        Definition of an Agent : 
+        Answer: 
+            An agent is anything that can be viewed as perceiving its environment throguh sensors and acting upon that environment.
+        Definition of a Environment:
+        Answer: 
+
+        -> Rationality
+        Answer: 
+            Rational agent when make it's work 100 percent perfection with it your guess. 
+
+        -> PEAS [Performance Measure, Environment, Actuators, Sensors]
+        -> Environment Types
+        -> Agent Types
+    Something Example to image generate by agent
+    it's like agent takes perception from the environment.
+    [
+        Input * Weight + Bias 
+    ]
+
+# Agent Function
+    -> Agent Program
+    ->The formula for an agent function is: 
+        f:P∗ → A
+        Where:
+        P∗ is the set of all possible percept sequences.
+        A is the set of all possible actions.
+        f maps a percept sequence to an action.
+    This means the agent function determines the action 𝑎 ∈ 𝐴 based on the percept sequence 𝑝 ∈ 𝑃∗
+
+
+[Important Question chances to come this question in the examination]
+# Agent Program vs Agent Function
+
+Aspect          Agent Function                           
+Definition      Abstract mapping from percepts to actions.      
+Nature          Theoretical and conceptual. 
+Example         f: P∗ → A (maps percepts to actions).      
+Dependency	    Independent of programming or implementation.            
+
+Aspect          Agent Function                           
+Definition      Concrete implementation of the agent function.      
+Nature          Practical and executable (in code).
+Example         A Python program processing inputs to decide actions.
+Dependency	    Depends on specific hardware or software.        
+
+# Agent : an Automated Taxi 
+    -> P: Safety, 
+    -> E: Road
+    -> A: Engine, Breaks, 
+    -> S: Video, Camera, Sensors, GPS 
+
+# Agent : Medical diagnosis System
+    -> P: Safety, healthy patient
+    -> E: Hospital
+    -> A: Providing Medicine, Screen Recorder
+    -> S: Keyboard, 

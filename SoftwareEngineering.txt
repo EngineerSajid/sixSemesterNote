@@ -1,0 +1,145 @@
+# Class 01 [Date: 22-01-2025]
+
+#Software Engineering
+    -> A Process to develop a Software
+        -> Systematic Approach
+        -> Cost-Efficient Approach
+        -> Disciplined Approach
+
+
+# Software Product:
+    -> Application Software
+    -> System Software
+
+    Definition: 
+        A software product is a program or set of programs designed to perform specific tasks for users,
+        along with its documentation and data.
+        
+# To measure quality of a good quality Software must have below given points.
+    -> Security 
+    -> Protable 
+    -> Flexibility
+    -> Performance 
+    -> Scalable 
+    -> Usability
+    -> Functionality 
+    -> Reliability 
+
+# Fundamental Activities of Software Engineering
+    -> Software Specification 
+    -> Software Development 
+    -> Software Validation 
+    -> Software Evolution 
+
+# Software Engineering Ethics
+    -> Confidentiality 
+    -> Competence
+    -> Intellectual Property Rights
+    -> Computer Misuse
+
+# OOM (Object Oriented Model) of Software Engineering (SE)
+
+# Class 02 [Date: 24-01-2025]
+Topics:
+# Software Engineering Layers
+# Software Engineering (SE) Myth'S
+# Polya's Principle
+# Legacy Software 
+
+# Software Engineering Layers
+Answer:
+    Four Layers of Software Engineering.
+    -> Tools
+    -> Method
+    -> Process
+    -> Quality Focus
+
+Below Brief Explanation with example of the four Layers
+(1) Tools: 
+    Software or systems that help in creating, testing, and managing projects.
+    Example: Git for version control, IntelliJ IDEA for coding, Selenium for testing.
+
+(2) Method:
+    Define techniques for software analysis, design, and development.
+    Example: Agile methodology, Object-Oriented Design (OOD), or UML diagrams.
+
+(3) Process:
+    The overall workflow or plan for managing a project.
+    Example: Scrum framework, Software Development Life Cycle (SDLC).
+
+(4) Quality Focus: 
+    Ensures the software is reliable, secure, and meets standards.
+    Example: ISO 9001 certification, Code Reviews, and Unit Testing.
+
+# Software Engineering (SE) Myth'S
+Answer:
+    Three Types of Myths in Software Engineering.
+    -> Management Perspectives
+    -> Practitioner's Viewpoint
+    -> Customer Expectations
+
+Below is a brief explanation with examples of the three types of myths in Software Engineering:
+(1) Management Perspectives:
+    Myth 01 : 
+        Software development is all about writing code.
+        Reality: Software development involves planning, designing, testing, and maintaining, not just coding.
+        Example: Focusing only on coding can result in poor user experience or frequent bugs.
+    Myth 02 : 
+        More people equal (=) faster project completion.
+        Reality: Adding more people can lead to communication overhead and reduced productivity.
+        Example: A team of 10 people might slow down a project if they all need constant coordination.
+    Myth 03: 
+        A project with a fixed budget and timeline will always be successful.
+        Reality: Strict budgets and timelines can compromise quality and lead to technical debt.
+        Example: Skipping thorough testing to meet a deadline can lead to a buggy product.
+(2) Practitioner's Viewpoint:
+    Myth 01 : 
+        You should always use the latest technology.
+        Reality: New technology may not always be the best fit for every project. Stability is often more important.
+        Example: Using a cutting-edge framework for a small project could add unnecessary complexity.
+    Myth 02 : 
+        More features always mean a better product.
+        Reality: Adding too many features can make the product bloated and harder to maintain.
+        Example: A simple to-do list app becomes overloaded with unnecessary features like calendar integrations.
+    Myth 03: 
+        Agile means no planning and constant change.
+        Reality: Agile requires planning, but it's flexible enough to adapt to changes.
+        Example: In Scrum, you plan sprints, but can adjust the backlog based on feedback.
+(3) Customer Expectations: 
+     Practitioner's Viewpoint:
+    Myth 01 : 
+        All software bugs can be fixed quickly.
+        Reality: Some bugs are complex and take time to diagnose and fix.
+        Example: A crash occurring under specific conditions may take time to reproduce and solve.
+    Myth 02 : 
+        Developers can deliver exactly what is requested without any changes.
+        Reality: Requirements often evolve as the project progresses.
+        Example: A customer might ask for a simple feature, but later demand more complex functionality after seeing early designs.
+    Myth 03: 
+        Software should be perfect and bug-free before it is released.
+        Reality: It’s often impractical to eliminate all bugs, and some may be discovered after release.
+        Example: A software release might have minor bugs, but the important thing is that they don’t significantly impact the user experience.
+
+# Polya's Principle
+Answer:
+    Four terms of Polya's Principle:
+    -> Understand the Problem 
+    -> Plan the Solution 
+    -> Carry out the Plan 
+    -> Examine the Result for Accuray
+
+Here, Polya's Principle: Explanation and Examples: 
+    -> Understand the Problem: 
+        Identify the problem clearly by determining what is being asked and what information is given.
+
+    -> Plan the Solution: 
+        Devise a strategy or method to solve the problem. Consider whether a formula, diagram, or breaking the problem into smaller parts will help.
+    
+     -> Carry out the Plan: 
+        Implement your solution by following the plan step by step. Be careful and systematic to avoid errors.
+
+     ->Examine the Result for Accuracy: 
+        Review your solution to ensure it is correct and makes sense in the context of the problem.
+# Legacy Software 
+Answer:
+    
