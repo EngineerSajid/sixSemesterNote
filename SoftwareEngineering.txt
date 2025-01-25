@@ -140,6 +140,10 @@ Here, Polya's Principle: Explanation and Examples:
 
      ->Examine the Result for Accuracy: 
         Review your solution to ensure it is correct and makes sense in the context of the problem.
+
+
 # Legacy Software 
 Answer:
-    
+    Legacy Software refers to older computer programs or systems that are still in use, even though newer technologies or systems have been developed. These programs may be outdated but continue to serve important functions in organizations.
+
+    Example: A company using an old accounting system from the 1990s, even though newer, more efficient software is available, is relying on legacy software.
