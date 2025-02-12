@@ -25,3 +25,24 @@
     -> Health Care 
 
     
+# IoT Theory [IoT WF -> IoT Theory]
+
+(1) Physical Devices and controllers: End Point Devices and sensors that send and receive information.
+(2) Connectivity: 
+    -> Reliable Delivery of information across the Networks
+    -> Switching and Routing 
+(3) Edge Computing: 
+    -> Evalute and Reformat data for processing at higher levels.
+(4) Data Accumulation: Captures data and stores it. like -> MySQL
+
+(5) Data Abstraction: Consolidates data into one place or multiple data stores using virtualization.
+
+(6) Application: Monitor, control and provide reports.
+
+(7) Collabration and Processes: Consumes and Shares the Application information.
+
+# Given question like such as 
+Question:
+    -> Any one layer explantion.
+    -> All layers show
+    -> Secnerio base, all layers step by step explantion with proper example 

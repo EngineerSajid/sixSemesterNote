@@ -17,13 +17,23 @@
         
 # To measure quality of a good quality Software must have below given points.
     -> Security 
-    -> Protable 
+    -> Portable 
     -> Flexibility
     -> Performance 
     -> Scalable 
     -> Usability
     -> Functionality 
     -> Reliability 
+
+Here, Brief Explanation of good software quality.
+    (1) Security – Protects data from unauthorized access.
+    (2) Portability – Runs on different platforms easily.
+    (3) Flexibility – Adapts to changes without major rework.
+    (4) Performance – Fast, efficient, and resource-optimized.
+    (5) Scalability – Handles increased load smoothly.
+    (6) Usability – User-friendly and easy to navigate.
+    (7) Functionality – Performs intended tasks correctly.
+    (8) Reliability – Works consistently with minimal failures.
 
 # Fundamental Activities of Software Engineering
     -> Software Specification 

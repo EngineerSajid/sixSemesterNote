@@ -1,0 +1,21 @@
+VsCode Shortcut 
+
+Ctrl + B -> toggle the sidebar
+Ctrl + ~ -> Open terminal 
+Ctrl + P -> Search Files 
+Ctrl + W -> Close the Tab
+Ctrl + Shift + L -> Select the match word in entire file.
+Ctrl + D -> Select word one by one 
+Shift + Alt + Down Arrow -> To copy and paste in the below 
+Alt + Up Arrow -> To move selected line up 
+Alt + Down Arrow -> To move selected line down 
+
+
+
+
+Microsoft Word or Doc 
+    Ctrl + . -> Superscript 
+    Ctrl + , -> Subscript 
+
+Google Doc Use Video 
+link -> https://www.youtube.com/watch?v=X7ShcCxOmns

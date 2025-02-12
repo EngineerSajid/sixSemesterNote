@@ -98,7 +98,7 @@ Nature          Theoretical and conceptual.
 Example         f: P∗ → A (maps percepts to actions).      
 Dependency	    Independent of programming or implementation.            
 
-Aspect          Agent Function                           
+Aspect          Agent Program                           
 Definition      Concrete implementation of the agent function.      
 Nature          Practical and executable (in code).
 Example         A Python program processing inputs to decide actions.
@@ -115,3 +115,80 @@ Dependency	    Depends on specific hardware or software.
     -> E: Hospital
     -> A: Providing Medicine, Screen Recorder
     -> S: Keyboard, 
+
+
+Day 03:
+    Environment Types
+        -> Fully Observable
+            Example: Chess Game
+        -> Partially Observable
+            Example: Card Game
+        -> Deterministic 
+            Example: Tic Tac Toe
+        -> Stochastic 
+            Example: Ludo 
+        -> Episodic
+            Example: Part Picking Robot 
+        ->  Sequential 
+            Example: Chess 
+        -> Dynamic Environment
+        -> Static Environment
+
+        -> Discrete Environment
+            Example: Chess
+        -> Continuous Environment
+            Example: Self Driving Car
+    
+    # Agent 
+        -> Single Agent 
+            Example: Puzzle
+        -> Multiagent 
+            Example: Football 
+    # Agent Types 
+        Basically four types of agent exist 
+            -> Simple Reflex Agent 
+                Working according to the perception of the environment and checking condition like if and than 
+                Here, like a condition is true then it perform according to the condition 
+            
+            -> Model Based Agent [also called Simple Reflex Agent with State]
+            -> Goal Based Agent
+            -> Utility Based Agent
+
+Lab :
+    Iteration 01: A Source Node 
+    Iteration 02: A, B, C
+    Iteration 03: A, B, D, E, F, C, G 
+    Iteration 04: A, B, D, H, I, E, K, C, F, G 
+
+Day 05: 
+    N.B -> For perform searching Algorithm only used for (graph, tree) etc.
+    # State Space Searching 
+    Two type state searching are divided 
+    -> UnInformed Search 
+    Gives information of UnInformed Search
+        -> Initial State
+        -> Goal State
+    Example: BFS, DFS, IDS
+
+    -> Informed Search
+    Gives information of Informed Search
+    -> Heuristic Value
+    Cons of Informed Search 
+        -> It's provide gruantee to find optimal for traverse the tree to arive goal.
+    Example: Best First Search, A* Algorithm, Ao* Algorithm, Hill Climbiing Algorithm.
+    Searching Key Point
+    -> Initial State
+    -> Goal State 
+    -> State Space Search
+
+
+    Bi-directional Searching Algorithm
+
+    -> Forward Direction 
+        [BFS] => A -> B -> C
+    -> Backward Direction
+        [DFS] => F -> D -> C 
+
+    Suppose, Forward Direction here, we use BFS
+    and Backward Direction here, wer use DFS
+
