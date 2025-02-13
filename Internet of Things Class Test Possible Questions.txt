@@ -1,0 +1,54 @@
+
+
+# What is IoT?
+Answer: 
+    IoT stands for the internet of things. It connects devices to the internet, allowing them to communicate and perform tasks automatically.
+
+# What are some real-life application of IoT?
+Answer:
+    Smart Home: Controlling lights, fans, and security system remotely.
+    Healthcare: Monitoring patients' health remotely.
+    Smart Car: Vehicles communicating for better navigation 
+    Industry 4.0 : Automated factories using sensor and IoT.
+    
+
+# What are the main challenges of IoT?
+Answer: 
+    Security: Risk of Hacking
+    Privacy: Protecting personal data.
+    Scalability: managing a large number of devices
+    Interoperability: Ensuring different devices work together. 
+    Big Data & Analytics: Processing large amounts of data.
+
+# What are the enablers of IoT?
+Answer: 
+    (1) Wireless Sensor Networks: Collecting real-time data.
+    (2) Cloud Computing: Storing and processing data.
+    (3) Big Data Analytics: Analyzing large datasets.
+    (4) Communication Protocols: Standards for device communication.
+    (5) Embedded System: Small computers inside devices 
+
+# M2M vs IoT Making the Choice 
+Answer:
+M2M technology may be a better choice if:
+-> your application requires point to point communication between machines. 
+
+-> your application has limited set of specific machine communication needs that need to be executed quickly and reliably.
+
+-> your application needs to be operational whether or not a WiFi connection is available. 
+
+-> Rapic scalability is not a primary concern for your network. 
+
+-> your device network needs to be isolated for security reasons.
+
+
+IoT technology may be a better choice if:
+-> your application requires real time syncing of many different devices throughout a networking Cloud.
+
+-> your devices have access to a fast and reliable WiFi connection.
+
+-> Devices on your network need the ability to communicate with multiple other devices simultaneously. 
+
+-> your application requires smooth and easy scalability for large numbers of devices and users 
+
+-> your application requires the ability to make its data and devices compatible with multiple standards. 
